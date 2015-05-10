@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="debug">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/TalkUp/wear/build/intermediates/pre-dexed/debug/support-annotations-21.0.0-73b1517c02a7f5f8fbb3a5f59aec5107ad3ee271.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TalkUp/wear/build/intermediates/pre-dexed/debug/classes-7a3dd36d3b0641b2e5dc43310600bd4c1d50cb6d.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TalkUp/wear/build/intermediates/pre-dexed/debug/classes-f3b116e38b3597a4ea0849abb0acd1900d04250b.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TalkUp/wear/build/intermediates/pre-dexed/debug/internal_impl-21.0.0-ea0ae8dfe1ded070e3fc312f9a3ac6f774ff235d.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TalkUp/wear/build/intermediates/pre-dexed/debug/classes-9e021f278c2ded2c40b57735728d84946cd1cd73.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TalkUp/wear/build/intermediates/pre-dexed/debug/classes-b18c6e153a95f6fde6eebe3ac70c9ac344372f2d.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TalkUp/wear/build/intermediates/pre-dexed/debug/classes-c93397fc5819d7ac8565368d7ab77aba42c9bde4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

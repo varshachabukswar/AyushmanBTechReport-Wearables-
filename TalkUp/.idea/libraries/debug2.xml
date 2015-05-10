@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="debug">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/TalkUp/mobile/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-791cc5bef8f9697fa0f48bc787a23366d192e57b.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TalkUp/mobile/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-90001a476f3fac79dc2c78b3bac7e557e42a571d.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TalkUp/mobile/build/intermediates/pre-dexed/debug/classes-9c5753d034916011ca1e43fda238db5cce0ac652.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TalkUp/mobile/build/intermediates/pre-dexed/debug/classes-90a017b5137bed38d69d50594fc64a9c380d6854.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TalkUp/mobile/build/intermediates/pre-dexed/debug/classes-e21c06071105ec23e274b6b272ab115b814c4e7d.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TalkUp/mobile/build/intermediates/pre-dexed/debug/classes-35540ee77be826d4cb8d34660c8e60265a7d44d7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TalkUp/mobile/build/intermediates/pre-dexed/debug/classes-795e3b83e32ff6e6cb9268acfc9086844736905d.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

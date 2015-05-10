@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="release">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/TalkUp/wear/build/intermediates/pre-dexed/release/internal_impl-21.0.3-aad37443b8c67f15e43fba96a4e77428c9197937.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TalkUp/wear/build/intermediates/pre-dexed/release/support-annotations-21.0.3-791cc5bef8f9697fa0f48bc787a23366d192e57b.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TalkUp/wear/build/intermediates/pre-dexed/release/classes-5facc5d07aa7f2a12ea4762cc7fad7026f07109b.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TalkUp/wear/build/intermediates/pre-dexed/release/classes-a7f7f6d34a8da533ea0c1d70341eeae91c4fa5fc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TalkUp/wear/build/intermediates/pre-dexed/release/classes-c6a589977bce77433b4d5867b411992e81d700cc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TalkUp/wear/build/intermediates/pre-dexed/release/classes-409025a3d6417da3168b7e0eb94bba7107885b2f.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TalkUp/wear/build/intermediates/pre-dexed/release/classes-afd956391776c53218f0510aec01f71746b2701b.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TalkUp/wear/build/intermediates/pre-dexed/release/classes-c7d71de2c2a8a0c3c60a2863386810874e2ce6ab.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
